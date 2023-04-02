@@ -1,0 +1,14 @@
+- title: Introduction #Menu item title.
+  url: category/introduction.html #Menu item url.
+  icon:  #Menu item icon.
+  hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
+
+- title: Thoughts
+  url: category/thoughts.html
+  icon:
+  hue: "var(--c-themeHueBlue)"
+
+- title: Notes
+  url: category/notes.html
+  icon:
+  hue: "var(--c-themeHueOrange)"
