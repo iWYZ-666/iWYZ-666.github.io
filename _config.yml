@@ -31,9 +31,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  iWYZ-666
 
 # Build settings
-theme: jekyll-theme-simplex
+# theme: jekyll-theme-simplex
+remote_theme: andreondra/jekyll-theme-simplex
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 logo_img:  #Absolute path to the logo. If not specified, the title will be displayed instead.
 copyright: © huanlun 2023 #Your copyright.
